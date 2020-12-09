@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="972cdc7d-3b79-4f5b-8487-41e9df091ced" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iMnmldTMlc8V3Wjtxohy2dlxIi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="972cdc7d-3b79-4f5b-8487-41e9df091ced" name="Default Changelist" comment="" />
+      <created>1601726489280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601726489280</updated>
+      <workItem from="1601726490320" duration="737000" />
+      <workItem from="1601809135781" duration="534000" />
+      <workItem from="1601810160732" duration="3944000" />
+      <workItem from="1602693367430" duration="129000" />
+      <workItem from="1602694289724" duration="2000" />
+      <workItem from="1602694904158" duration="4000" />
+      <workItem from="1603022305860" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1335" y="326" key="#PHP" timestamp="1601726609230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1335" y="326" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1601726609230" />
+    <state x="824" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601812368425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="824" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601812368425" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1601811889934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1601811889934" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1601726502389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601726502389" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602693492581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602693492581" />
+  </component>
+</project>
