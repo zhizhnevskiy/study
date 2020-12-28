@@ -169,3 +169,22 @@ echo '</pre>';
 
 print_r($products);
 echo '<br>';
+
+$arr = [1,2,3,4,5];
+$arr2 = array_reverse($arr);
+$arr3 = [6,7,8,9,10];
+print_r($arr2);
+
+echo '<pre>';
+print_r(get_defined_vars());
+echo '</pre>';
+
+$arr5 = ["12"=>13,"14"=>15];
+$arr6 = ["16"=>16,"17"=>17];
+$iArr = $arr5 + $arr6;
+print_r($iArr);
+
+$now=getdate();
+echo '<pre>';
+print_r($now);
+echo '</pre>';
