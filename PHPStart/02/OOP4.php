@@ -9,11 +9,11 @@ class MyCar
     const WINDOWS = 8;
     const WHEELS = 4;
 
-    public function __construct($brand = "Auto", $color = "Color", $speed = 0)
+    public function __construct($brand2 = "Auto", $color2 = "Color", $speed2 = 0)
     {
-        $this->brand = $brand;
-        $this->color = $color;
-        $this->speed = $speed;
+        $this->brand = $brand2;
+        $this->color = $color2;
+        $this->speed = $speed2;
     }
 
     public function fuelConsumption($distance)
