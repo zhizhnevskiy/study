@@ -27,3 +27,4 @@ $result = mysqli_query($con, "SELECT * FROM publication");
 while ($row = mysqli_fetch_array($result)) {
     $publications[] = new $row["type"]($row);
 }
+

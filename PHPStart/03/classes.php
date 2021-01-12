@@ -1,6 +1,6 @@
 <?php
 
-class Publication
+abstract class Publication
 {
     public $id;
     public $title;
@@ -10,6 +10,8 @@ class Publication
     public $author_name;
     public $preview;
     public $type;
+
+    abstract public function printItem();
 
     function __construct($row)
     {
