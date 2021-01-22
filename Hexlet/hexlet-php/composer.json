@@ -1,0 +1,24 @@
+{
+    "name": "yura/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
+    "description": "--------",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Zhizhnevskiy Yuriy",
+            "email": "zhizhnevskiy@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "tightenco/collect": "^8.19",
+        "psr/http-message": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
